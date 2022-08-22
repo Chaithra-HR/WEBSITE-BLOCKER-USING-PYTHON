@@ -22,3 +22,8 @@ In this, we will block the access to the list of some particular websites during
 ![image](https://user-images.githubusercontent.com/78494843/185983240-06c5b660-c5b4-48dc-948a-bf030f81e7a5.png)
 
 
+
+
+**REFERENCES**
+
+https://www.tutorialspoint.com/website-blocker-using-python
